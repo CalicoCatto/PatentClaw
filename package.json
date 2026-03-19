@@ -1,7 +1,7 @@
 {
   "name": "patent-claw",
-  "version": "1.0.0",
-  "description": "OpenClaw Skill：学术论文 → 技术交底书 → 中国发明专利申请文件（四件套）全流程生成",
+  "version": "2.0.0",
+  "description": "OpenClaw Skill：多 Agent 编排架构，学术论文 → 技术交底书 → 中国发明专利申请文件（四件套）全流程生成",
   "main": "export-docx.js",
   "scripts": {
     "check": "node check-consistency.js",
