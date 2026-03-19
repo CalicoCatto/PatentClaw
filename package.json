@@ -1,0 +1,16 @@
+{
+  "name": "patent-claw",
+  "version": "1.0.0",
+  "description": "OpenClaw Skill：学术论文 → 技术交底书 → 中国发明专利申请文件（四件套）全流程生成",
+  "main": "export-docx.js",
+  "scripts": {
+    "check": "node check-consistency.js",
+    "export": "node export-docx.js"
+  },
+  "dependencies": {
+    "docx": "^9.6.0"
+  },
+  "keywords": ["patent", "openclaw", "skill", "中国专利", "专利撰写"],
+  "author": "CalicoCatto <470045806@qq.com>",
+  "license": "MIT"
+}
