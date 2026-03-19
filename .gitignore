@@ -1,3 +1,4 @@
 node_modules/
 output/
 *.docx
+!docs/PatentClaw_项目说明书.docx
